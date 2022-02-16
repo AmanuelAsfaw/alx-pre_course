@@ -1,2 +1,3 @@
-**First ALX Git Project**
-*ALX : Pre-Course*
+#First ALX Git Project
+
+>>*ALX : Pre-Course*
